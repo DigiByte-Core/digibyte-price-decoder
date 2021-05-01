@@ -1,6 +1,6 @@
 {
   "name": "digibyte-price-decoder",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "decodes price data published by digiassetX",
   "main": "index.js",
   "scripts": {
